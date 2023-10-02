@@ -1,5 +1,5 @@
 # Data-Programming
-It involves predicting whether the new is real or fake based different machine learning models.
+It involves predicting whether the new is real or fake based on different machine learning models.
 
 There are four models that are used here:
 
